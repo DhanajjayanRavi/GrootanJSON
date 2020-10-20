@@ -1,0 +1,8 @@
+<html>
+<body>
+    <p>Enter the JSON object</p>
+    <textarea rows="7" cols="20" name="value"></textarea><br>
+    <input type="submit">
+</form>
+</body>
+</html>
